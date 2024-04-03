@@ -1,0 +1,24 @@
+#add{
+    background-color: green;
+    color: white;
+}
+
+
+.main{
+    display: flex;
+    
+    
+}
+
+.meh{
+    display: flex;
+    justify-content: space-between;
+}
+
+.right{
+    margin-left: 40%;
+}
+
+#tabla{
+    list-style: none;
+}
